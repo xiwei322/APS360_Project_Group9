@@ -6,4 +6,4 @@ This project implements a convolutional neural network (CNN) to classify German 
 - Source: German Traffic Sign Recognition Benchmark (GTSRB)
  
 ## Setup
-Download dataset [here](https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html), and put it into the root repo
+Download dataset [here](https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html), and place the unzipped folder named "GTSRB" in the root folder
